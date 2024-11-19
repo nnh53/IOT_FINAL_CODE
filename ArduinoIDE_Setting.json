@@ -1,0 +1,26 @@
+{
+    "window.titleBarStyle": "native",
+    "workbench.colorTheme": "arduino-theme",
+    "files.autoSave": "afterDelay",
+    "editor.quickSuggestions": {
+      "other": true,
+      "comments": false,
+      "strings": false
+    },
+    "arduino.window.autoScale": true,
+    "window.zoomLevel": 0,
+    "arduino.compile.verbose": true,
+    "arduino.compile.warnings": "None",
+    "arduino.upload.verbose": true,
+    "arduino.upload.verify": false,
+    "arduino.sketchbook.showAllFiles": false,
+    "editor.guides.bracketPairs": true,
+    "editor.fontSize": 14,
+    "editor.fontFamily": "'JetBrainsMono Nerd Font','Inconsolata','SF Mono Regular','Droid Sans Mono', 'monospace', monospace",
+    "terminal.integrated.fontSize": 11,
+    "terminal.integrated.fontFamily": "'JetBrainsMono Nerd Font'",
+    "editor.codeLensFontFamily": "'JetBrainsMono Nerd Font'",
+    "editor.mouseWheelZoom": false,
+    "editor.tabSize": 2,
+    "editor.formatOnSave": true
+}
